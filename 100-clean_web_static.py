@@ -17,9 +17,8 @@ from datetime import datetime
 import os
 import os.path
 
-env.hosts = ['44.211.26.34', '44.192.114.202']
+env.hosts = ['44.2110.84.85', '18.234.193.81']
 env.user = "ubuntu"
-env.key_filename = '~/.ssh/id_rsa.pub'
 
 
 def do_pack():
